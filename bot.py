@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import pandas as pd
 import ta
 
-TOKEN = "8845063172:AAFM6i0OFJqG96jGymKL5sgEGrP27S7kyYU"
+TOKEN = "8845063172:AAHMUILLNhFQtbDM2rWYJkTZ3nmMolDc3Hk"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
