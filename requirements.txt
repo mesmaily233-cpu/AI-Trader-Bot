@@ -1,2 +1,7 @@
 python-telegram-bot
 flask
+python-telegram-bot
+flask
+requests
+pandas
+ta
